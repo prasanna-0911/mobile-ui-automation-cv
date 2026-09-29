@@ -38,7 +38,7 @@ coc-base-collector-bot/
 
 1️⃣ Clone Repository
 ```
-git clone https://github.com/YOUR_USERNAME/coc-base-collector-bot.git
+git clone https://github.com/prasanna-0911/coc-base-collector-bot.git
 cd coc-base-collector-bot
 ```
 
